@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "MoonightMC.aternos.me:17876",
+    "port": 17876,
     "version": "",
     "try-creative": false
   },
